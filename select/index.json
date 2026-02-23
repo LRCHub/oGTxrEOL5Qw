@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "心臓",
+  "base_artist": "藍井エイル",
+  "createdAt": "2026-02-23T11:54:30.618139Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心臓",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/01_心臓_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心臓",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/02_心臓_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心臓",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/03_心臓_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心臓",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/04_心臓_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心臓 (DubVision Remix) - SACRA BEATS Singles",
+      "artist": "Eir Aoi/DubVision",
+      "has_synced": true,
+      "path": "select/05_心臓_(DubVision_Remix)_-_SACRA_BEATS_Singles_Eir_Aoi_DubVision.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心臓",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/06_心臓_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "心臓 - heart",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/07_心臓_-_heart_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "心臓 (DubVision Remix) - SACRA BEATS Singles",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/08_心臓_(DubVision_Remix)_-_SACRA_BEATS_Singles_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "心臓 (Inst.)",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/09_心臓_(Inst.)_DUSTCELL.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "心臓",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/10_心臓_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "心臓",
+      "artist": "藍井エイル Aoi Eir",
+      "has_synced": true,
+      "path": "select/11_心臓_藍井エイル_Aoi_Eir.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心臓",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_01_心臓_藍井エイル.txt"
+    }
+  ]
+}
